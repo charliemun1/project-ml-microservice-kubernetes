@@ -1,1 +1,4 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAME                              READY   STATUS    RESTARTS   AGE
+ml-microservice-b9f77b8fc-bvhmd   1/1     Running   0          32s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
