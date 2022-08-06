@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=charliemun/ml-microservice:v1.0.0
+dockerpath=charliemun/ml-microservice:v1.0.1
 deployment=ml-microservice
 
 # Step 2
